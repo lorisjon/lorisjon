@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
+<img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"  />
 
 ###
 
@@ -25,6 +25,11 @@
 ###
 
 <p align="left">⚡ Fun fact: I also do fire performances 🔥</p>
+
+<br>
+<br>
+
+---
 
 ###
 
@@ -93,20 +98,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lorisjon&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lorisjon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/lorisjon/lorisjon/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p align="left">My Activities</p>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
 </div>
 
 ###
