@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=lorisjon.lorisjon&left_color=black&right_color=hotpink&left_text=Profile%20vistors"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lorisjon.lorisjon&left_color=black&right_color=forestgreen&left_text=Profile%20vistors"  />
 </div>
 
 ###
