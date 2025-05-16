@@ -2,7 +2,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=lorisjon.lorisjon&left_color=black&right_color=forestgreen&left_text=Profile%20vistors"  />
 </div>
 
@@ -11,20 +11,27 @@
 <img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"  />
 
 ###
+<ul>
 
-<p align="left">🔭 I’m currently working on School Management System</p>
+<li><p align="left">🔭 I’m currently working on School Management System</p> </li>
+
+
+###
+<li> <p align="left">🌱 I’m currently learning Fullstack development, Scrum</p> </li>
+
 
 ###
 
-<p align="left">🌱 I’m currently learning Fullstack development, Scrum</p>
+<li> <p align="left">📫 How to reach me / my mail: loris.stahlberg@mail.ch</p> </li>
+
 
 ###
 
-<p align="left">📫 How to reach me / my mail: loris.stahlberg@mail.ch</p>
+<li><p align="left">⚡ Fun fact: I also do fire performances 🔥</p></li>
 
-###
 
-<p align="left">⚡ Fun fact: I also do fire performances 🔥</p>
+
+</ul>
 
 <br>
 <br>
