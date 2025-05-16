@@ -89,9 +89,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
+<br>
+<br>
+
+---
+
 ###
 
-<p align="left">My Github Stats (we rarely use github in school)</p>
+<h4 align="left">My Github Stats (we rarely use github in school)</h4>
 
 ###
 
