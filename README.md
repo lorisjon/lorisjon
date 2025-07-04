@@ -7,34 +7,19 @@
 </div>
 
 ###
-
-<img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"  />
-
-###
-<ul>
-
-<li><p align="left">🔭 I’m currently working on School Management System</p> </li>
-
-
-###
-<li> <p align="left">🌱 I’m currently learning Fullstack development, Scrum</p> </li>
+<div style="overflow: hidden;">
+  <img align="right" height="15" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" />
+  <ul>
+    <li><p align="left">🔭 I’m currently working on School Management System</p></li>
+    <li><p align="left">🌱 I’m currently learning Fullstack development, Scrum</p></li>
+    <li><p align="left">📫 How to reach me / my mail: loris.stahlberg@mail.ch</p></li>
+    <li><p align="left">⚡ Fun fact: I also do fire performances 🔥</p></li>
+  </ul>
+</div>
 
 
-###
+<br clear="all" />
 
-<li> <p align="left">📫 How to reach me / my mail: loris.stahlberg@mail.ch</p> </li>
-
-
-###
-
-<li><p align="left">⚡ Fun fact: I also do fire performances 🔥</p></li>
-
-
-
-</ul>
-
-<br>
-<br>
 
 ---
 
