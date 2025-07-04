@@ -7,15 +7,22 @@
 </div>
 
 ###
-<div style="overflow: hidden;">
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" style="float: right; width: 300px; height: auto; margin-left: 10px;" />
-  <ul>
-    <li><p align="left">🔭 I’m currently working on School Management System</p></li>
-    <li><p align="left">🌱 I’m currently learning Fullstack development, Scrum</p></li>
-    <li><p align="left">📫 How to reach me / my mail: loris.stahlberg@mail.ch</p></li>
-    <li><p align="left">⚡ Fun fact: I also do fire performances 🔥</p></li>
-  </ul>
-</div>
+<table width="100%">
+  <tr>
+    <td width="70%">
+      <ul>
+        <li><p align="left">🔭 I’m currently working on School Management System</p></li>
+        <li><p align="left">🌱 I’m currently learning Fullstack development, Scrum</p></li>
+        <li><p align="left">📫 How to reach me / my mail: loris.stahlberg@mail.ch</p></li>
+        <li><p align="left">⚡ Fun fact: I also do fire performances 🔥</p></li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="250" alt="fun gif" />
+    </td>
+  </tr>
+</table>
+
 
 
 <br clear="all" />
