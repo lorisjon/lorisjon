@@ -25,7 +25,15 @@
 
   
   <li>📫 How to reach me / my mail: loris.stahlberg@mail.ch</li>
+
+  ###
+
+  
   <li>⚡ Fun fact: I also do fire performances 🔥</li>
+
+  ###
+
+  
 </ul>
 
 
