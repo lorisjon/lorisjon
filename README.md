@@ -21,13 +21,15 @@
   
   <li>🌱 I’m currently learning Fullstack development, Scrum</li>
 
-<!--  ###
+  
 
+  ###
+<!--
   
   <li>📫 How to reach me / my mail: loris.stahlberg@mail.ch</li> 
+-->
 
-  ###-->
-
+ <!-- ### -->
   
   <li>⚡ Fun fact: I also do fire performances 🔥</li>
 
