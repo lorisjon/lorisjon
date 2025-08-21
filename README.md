@@ -14,7 +14,7 @@
   ###
 
   
-  <li>🔭 I’m currently working on School Management System</li>
+  <li>🔭 I’m currently working on Beatbound</li>
 
   ###
 
