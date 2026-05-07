@@ -14,7 +14,7 @@
   ###
 
   
-  <li>🔭 I’m currently working on Beatbound</li>
+  <li>🔭 I’m currently working on event-app</li>
 
   ###
 
